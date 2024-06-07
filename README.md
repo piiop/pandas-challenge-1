@@ -27,7 +27,7 @@ Which five clients had the most entries in the data?
 Store the client ids of those top 5 clients in a list.
 How many total units (the qty column) did the client with the most entries order?
 
-####Part 2: Transform the Data
+#### Part 2: Transform the Data
 
 Now that you have a better understanding of the data you will be asked to transform the data for better and easier analysis.
 
@@ -48,7 +48,8 @@ After transforming data, it's always a good idea to verify the results. You have
 Order ID 2742071 had a total price of $152,811.89 Order ID 2173913 had a total price of $162,388.71 Order ID 6128929 had a total price of $923,441.25
 
 Confirm that your calculations match the receipts. Remember, each order has multiple lines.
-Part 4: Summarize and Analyze
+
+#### Part 4: Summarize and Analyze
 Use the new columns with confirmed values to find the following information.
 
 How much did each of the top 5 clients by quantity spend? Use your work from Part 1 for client ids?
