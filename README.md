@@ -1,5 +1,6 @@
 # pandas-challenge-1
-This is the bootcamp Module 4 Challenge. This uses starter code provided by the bootcamp. The instructions are as follows:
+This is the bootcamp Module 4 Challenge. This uses starter code provided by the bootcamp, as well as help from the Xpert Learning Assistant.
+The instructions are as follows:
 
 ### Challenge Instructions
 
